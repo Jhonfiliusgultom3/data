@@ -1,0 +1,64 @@
+no,Objek Wisata,Lokasi,Toilet,Warung,Mushola,Parkir,Gazebo,Jarak Tempuh dari titik 0 (Km),Waktu Tempuh Dari Titik Tempuh (m),Kategori_Wisata
+1,Api Alam Konang,Galis,1,1,0,1,1,47.2,82,Wisata Alam
+2,Gunung Geger,Geger,1,1,0,1,0,28.8,56,Wisata Alam
+3,Bukit Jeddih,Socah,1,1,1,1,1,9.7,25,Wisata Alam
+4,Air Terjun Galis,Galis,1,1,1,1,0,30.8,53,Wisata Alam
+5,Air Terjun Bidadari Dhurjan,Kokop,1,1,1,1,0,56.4,115,Wisata Alam
+6,Hutan Mangrove Kec. Sepulu,Sepuluh,1,1,1,1,1,34.9,56,Wisata Alam
+7,Bukit Pelalangan,Arosbaya,1,1,1,1,0,18,36,Wisata Alam
+8,Kolla Lagundi,Bangkalan,1,1,0,1,0,5.8,15,Wisata Alam
+9,Goa Kuning Plebunan,Arosbaya,1,1,0,1,1,18,36,Wisata Alam
+10,Pantai Tlangoh,Tanjung Bumi,1,1,0,1,1,40.8,60,Wisata Alam
+11,Pantai Maneron,Sepuluh,1,1,0,1,1,31.4,52,Wisata Alam
+12,Pantai Rongkang,Kwanyar,1,1,1,1,1,24.8,48,Wisata Alam
+13,Pantai Siring Kemuning,Tanjung Bumi,1,1,0,1,1,41.8,61,Wisata Alam
+14,Pantai Bumi Anyar,Tanjung Bumi,1,1,0,1,0,49.1,72,Wisata Alam
+15,Pantai Biru,Tanjung Bumi,1,1,0,1,1,44.4,65,Wisata Alam
+16,Pantai Goa Petapan,Labang,1,1,0,1,1,20.3,32,Wisata Alam
+17,Makam Aer Mata Ebuh,Arosbaya,0,0,0,1,0,17.8,35,Wisata Budaya/Religi
+18,Makam Sultan Abd Kadirun,Bangkalan,0,0,1,1,0,0.65,2,Wisata Budaya/Religi
+19,Makam Syaichona Cholil,Bangkalan,0,0,1,1,0,3.3,9,Wisata Budaya/Religi
+20,Makam Sunan Cendana,Kwanyar,0,0,1,1,0,21.4,45,Wisata Budaya/Religi
+21,Makam Agung,Arosbaya,0,0,1,1,0,16.5,30,Wisata Budaya/Religi
+22,Makam Ki Demung Plakaran,Arosbaya,0,0,1,1,0,16.1,29,Wisata Budaya/Religi
+23,Makam Potre Koneng,Geger,0,0,1,1,0,28.5,53,Wisata Budaya/Religi
+24,Museum Cakraningrat,Bangkalan,1,1,1,1,0,2.8,7,Wisata Budaya/Religi
+25,Taman Rekreasi Kota (TRK),Bangkalan,1,1,1,1,1,2.2,6,Wisata Minat
+26,Hutan Mangrove Bancaran,Bangkalan,1,1,0,1,1,34.9,56,Wisata Minat
+27,Pantai Biru,Tanjung Bumi,1,1,0,1,1,44.4,65,Wisata Minat
+28,Kampung Batik Paseseh,Tanjung Bumi,1,1,0,1,1,44.6,66,Wisata Minat
+29,Api Tak Kunjung Padam,Pamekasan,1,1,0,1,1,5.9,10,Wisata Budaya/Religi
+30,Batu Ampar,Pamekasan,1,1,0,1,0,25.9,39,Wisata Budaya/Religi
+31,Makam Ronggo Sukowati,Pamekasan,1,1,1,1,1,1.1,3,Wisata Budaya/Religi
+32,Museum Umum Mandilaras,Pamekasan,1,1,1,1,0,0.14,2,Wisata Minat
+33,Pantai Jumiang,Pamekasan,1,1,1,1,0,13.7,23,Wisata Alam
+34,Pantai Talang Siring,Pamekasan,1,1,1,1,1,13.7,23,Wisata Alam
+35,Pantai Camplong,Sampang,1,1,1,1,0,10.9,18,Wisata Alam
+36,Kolam Renang Sumber Oto',Sampang,1,1,0,1,0,6.3,13,wisata minat
+37,Gua Lebar,Sampang,1,1,0,1,1,2.1,6,wisata alam
+38,Waduk Klampis,Sampang,1,1,0,1,1,10.9,24,wisata minat
+39,Hutan Kera Nepa,Sampang,1,1,0,1,1,49.8,76,Wisata Alam
+40,Air Terjun Toroan,Sampang,1,1,1,1,1,42.8,66,Wisata Alam
+41,Situs Ratu Ibu,Sampang,1,1,0,1,1,3.4,8,Wisata Budaya/Religi
+42,Situs Trunojoyo,Sampang,1,1,0,1,0,1.9,5,Wisata Budaya/Religi
+43,Makam Sayid Utsman,Sampang,1,1,0,1,1,2.4,7,Wisata Budaya/Religi
+46,Kolam Pancing Aji Gunung,Sampang,1,1,0,1,1,0.55,3,Wisata Minat
+47,Asta Gumuk,Sumenep,0,0,0,1,0,5.7,13,Wisata Budaya/Religi
+48,Asta Jokotele,Sumenep,0,0,1,1,0,13.2,28,Wisata Budaya/Religi
+49,Asta K. Faqih,Sumenep,0,0,1,1,0,13.7,27,Wisata Budaya/Religi
+50,Asta Katandur,Sumenep,0,0,1,1,0,2.5,9,Wisata Budaya/Religi
+51,Asta Panngonan,Sumenep,0,0,1,1,0,31.1,46,Wisata Budaya/Religi
+55,Makam Asta Tinggi,Sumenep,0,0,1,1,0,2.6,8,Wisata Budaya/Religi
+56,Masjid Jamik Sumenep,Sumenep,0,0,1,1,0,0.2,1,Wisata Budaya/Religi
+57,Museum dan Keraton,Sumenep,1,1,1,1,0,0.5,2,Wisata Minat
+58,Pantai Sembilan,Sumenep,1,1,1,1,1,19.8,70,Wisata Alam
+59,Pantai Badur,Sumenep,1,1,0,1,1,27.1,45,Wisata Alam
+60,Pantai Lombang,Sumenep,1,1,0,1,1,29.7,48,Wisata Alam
+61,Pantai Slopeng,Sumenep,1,1,0,1,1,21.6,31,Wisata Alam
+62,Rumah Kasur Pasir,Sumenep,0,0,1,1,0,28.1,41,Wisata Minat
+63,Situs Benteng,Sumenep,0,0,1,1,0,7.8,18,Wisata Budaya/Religi
+64,Situs Batugong,Sumenep,1,1,1,1,0,98.9,137,Wsiata Budaya/Religi
+65,Wisata Bukit Tinggi,Sumenep,1,1,1,1,1,9.5,22,Wisata Alam
+66,Tirta Sumekar Indah,Sumenep,1,1,0,1,1,4.8,12,Wisata Budaya/Religi
+67,Wisata Batu Kapur,Sumenep,1,1,0,1,1,32.1,42,Wisata Alam
+68,Water Park Sumenep,Sumenep,1,1,0,1,1,3.5,9,Wisata Minat
